@@ -1,2 +1,2 @@
 # news-review
-A News Review Website
+A News Review Website for Private Use
